@@ -22,7 +22,7 @@
 </div>
 
 <hr>
-<b>Bài tập viết API kết nối giữa 2 ứng dụng</b>
+<b>Bài tập 1: Viết API kết nối giữa 2 ứng dụng</b>
 <br>
 https://github.com/hgewew/bai1
 <br>
@@ -58,4 +58,14 @@ https://github.com/Blackbin03/quan-ly-sinh-vien
 <br>
 https://github.com/thanhtung1000/APIPython_web.git
 
+<hr>
+<b>Bài tập 2: Viết 2 ứng dụng trao đổi dữ liệu qua Cloud</b>
+<br>
+https://github.com/hgewew/bai2.git
+<br>
+https://github.com/trggiang0704/ThucHanh2.git
+<br>
+https://github.com/Huy0711/Bai2-DichVuKetNoi
+<br>
+https://github.com/Huy0711/Bai2-DichVuKetNoi
 
