@@ -70,6 +70,6 @@ https://github.com/Huy0711/Bai2-DichVuKetNoi
 https://github.com/Huy0711/Bai2-DichVuKetNoi
 
 <hr>
-<b>Bài tập 2: Viết ứng dụng gọi kết nối API chatbot AI</b>
+<b>Bài tập 3: Viết ứng dụng gọi kết nối API chatbot AI</b>
 <br>
 https://github.com/BinhNeymar2004/Chat-box.git
